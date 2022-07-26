@@ -48,7 +48,7 @@ const DISHES = [
     },
     {
         id: 1,
-        name: 'BBQ Chicken Pizza',
+        name: 'Bar B Q Chicken Pizza',
         image: 'assets/images/1pizza.jpg',
         category: 'meal',
         label: '',
